@@ -1,3 +1,9 @@
 # CS230
 
 The Gaming Room was a producer of successful Android game called Draw It or Lose it. They requested a web-based version of the game that was usable across multiple platforms. 
+
+I created a highly detailed outline plan of requirements, operating systems, design contraints, and UML digrams. This allowed the client to view my recommendation for a Windows server with a Cloud storage base and why. 
+Working through the design document allowed me to see what I needed to implement when writing the code to allow for multi-platform, multi-user use without having to change the code a ton to fit every possible server. For example, Java or Python would be the best way to go with programming language while use Eclipse or Visual Studio IDE. This covers multiple servers. Writing the program on Windows allows for a better user-friendly interface.
+I would reseach more on the monile device platforms in the future. I spent little time studying them because I knew the varying devices provided various constraints. 
+The client wanted speed, security, and cost-efficency when creating this product. They also wanted the ability to have unique identifiers and teams. This required me to do research on which OS was the most cost-effective, secure, and fastest while still being able to right a code unique to the application. The user's are paying for the product and being able to show them the pros and cons of each OS while still suggesting the best route allows the user to see why the developer created the program the way they did and why they didn't go a different route. 
+With desigining the software, I began vaguely and worked my way up to the end product. You want a working product for the customer with no errors. The best way to do this is to begin small and build upon the project as you go. 
